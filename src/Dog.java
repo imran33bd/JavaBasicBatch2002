@@ -7,7 +7,6 @@ public class Dog {
         color= "white";
         System.out.println("wang wang ..." + color);
     }
-
     void hungry() {
         age = 3;
         System.out.println("I am eating bread ...and i am " + age + "years old" );
