@@ -51,37 +51,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="75" />
+          <entry key="java" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="75" />
+          <entry key="JAVA" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5971" />
+          <entry key="java" value="5999" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5971" />
+          <entry key="JAVA" value="5999" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Pen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sabuj.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -169,11 +160,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Phone/ClassThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="336">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Phone/ScannerClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,7 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Check.java" />
         <option value="$PROJECT_DIR$/src/Computer.java" />
         <option value="$PROJECT_DIR$/src/Dog.java" />
         <option value="$PROJECT_DIR$/src/Dinning.java" />
@@ -253,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/Phone/ClassOne.java" />
         <option value="$PROJECT_DIR$/src/Phone/ClassTwo.java" />
         <option value="$PROJECT_DIR$/src/Phone/ClassThree.java" />
+        <option value="$PROJECT_DIR$/src/Phone/ScannerClass.java" />
       </list>
     </option>
   </component>
@@ -311,7 +315,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596825122200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596825601772" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -326,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassThree">
+  <component name="RunManager" selected="Application.ScannerClass">
     <configuration name="ClassOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Phone.ClassOne" />
       <module name="IdeaProjects" />
@@ -366,19 +370,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iphone12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Phone.Iphone12" />
-      <module name="IdeaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Phone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Phone.MyClass" />
       <module name="IdeaProjects" />
@@ -392,20 +383,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Phone.ScannerClass" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Iphone12" />
       <item itemvalue="Application.MyClass" />
       <item itemvalue="Application.ClassOne" />
       <item itemvalue="Application.ClassTwo" />
       <item itemvalue="Application.ClassThree" />
+      <item itemvalue="Application.ScannerClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerClass" />
         <item itemvalue="Application.ClassThree" />
         <item itemvalue="Application.ClassTwo" />
         <item itemvalue="Application.ClassOne" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.Iphone12" />
       </list>
     </recent_temporary>
   </component>
@@ -424,6 +428,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="249" y="28" width="1285" height="816" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12067579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -476,13 +481,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -884,8 +882,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Phone/ClassThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="336">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone/ScannerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
