@@ -5,7 +5,8 @@ public class Trycatch {
             System.out.println(myNumbers[10]);
         } catch (Exception e) {
             System.out.println("Something went wrong.");
+        }finally{
+            System.out.println("i am done...");
         }
     }
-
 }
