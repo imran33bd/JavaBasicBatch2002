@@ -1,7 +1,7 @@
 package PracticeInheritance;
 
 public class SonClass extends FatherClass {
-    String che="yellow cherry";
+
     public void cherry(){
         System.out.println("lovely cherry..");
     }
@@ -24,6 +24,7 @@ public class SonClass extends FatherClass {
         obj.watermelon();
         obj.apple();
         obj.cherry();
+        obj.cherry("yellow cherry");
 
     }
 }
